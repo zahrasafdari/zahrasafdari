@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zahrasafda10611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahrasafda10611" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahra safdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra safdari" height="30" width="40" /></a>
-<a href="https://kaggle.com/zahra safdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zahra safdari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahra-safdari-71a38a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra safdari" height="30" width="40" /></a>
+<a href="https://kaggle.com/zahrasafdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zahra safdari" height="30" width="40" /></a>
 <a href="https://instagram.com/zahrasafdri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahrasafdri" height="30" width="40" /></a>
 </p>
 
