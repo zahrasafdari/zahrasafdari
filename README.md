@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasafdari&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasafdari" /> </p>
 
-- 🔭 I’m currently working on **Granular Computing**
+- 🔭 I’m currently working on **Granular Computing, Climate Informatics, Social Computing, and Trustworthy AI**
 
 - 📝 I regularly write articles on [ML/NLP](ML/NLP)
 
