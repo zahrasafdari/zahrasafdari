@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zahra Safdari</h1>
-<h3 align="center">An Undergraduate Research Assistant at the University of Tabriz</h3>
+<h3 align="center">An Graduate Research Assistant at Bilkent University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrasafdari&label=Profile%20views&color=0e75b6&style=flat" alt="zahrasafdari" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing and Social Computing**
-
-- 📝 I regularly write articles on [ML/NLP](ML/NLP)
+- 🔭 I’m currently working on **Privacy-preserving ML, Natural Language Processing and Social Computing**
 
 - 📫 How to reach me **zahrasafdari8181@gmail.com**
-
-- ⚡ Fun fact **I enjoy challenge myself with learning new stuff!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
